@@ -21,7 +21,7 @@ Afin de maximiser notre efficacité lors de l'événement, il est fortement reco
  - Installer **docker** (utilisé pour packager et distribuer simplement ces applications. Un guide est disponible [ici](https://docs.docker.com/install/linux/docker-ce/debian/).
  - Créez vous un compte sur GitHub, si ce n'est pas déjà fait...
 
-Vous pouvez ensuite suivre les instructions pour la mise en place [d'OpenPaaS](https://open-paas.org/) et [de Apache JAMES](https://james.apache.org/).
+Vous pouvez ensuite suivre les instructions pour la mise en place [d'OpenPaaS](https://open-paas.org/) et [de Apache JAMES](JAMES-set-up.md).
 
 ## Et le jour J...
 
